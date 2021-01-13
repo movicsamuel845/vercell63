@@ -1,0 +1,4 @@
+baseURL = "https://pokemoncardshighlyess.vercel.app"
+languageCode = "en-us"
+title = "New Pokemon Cards"
+theme = "tale-hugo-master"
